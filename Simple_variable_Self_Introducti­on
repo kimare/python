@@ -1,14 +1,10 @@
-Name = "Louiz"
-age = 19
-gender = "Male"
-food = "Chicken"
-Maxim = "you only live once and Be brave"
+Name = "Louiz"; age = 19; gender = "Male"; food = "Chicken"; Maxim = "you only live once and Be brave"
 print ((' Hi, It is my pleasure to introduce myself to you guys. My name is {Name}. \n \
 My age is {age}. \n \
 Sex is {gender}. \n \
 My favolite food is {food}. \n \
 My Life qoutes is {Maxim}. \n \
-While i studied my major I found it is interesting for me so that makes me to study deeply in this field. \n \
-I am people person, look back my life, met my people I kinda get some ideas how to communicate with others and what is a good conversations. ,\n \
+while i studied my major I found it is interesting for me so that makes me to study deeply in this field. \n \
+I am people person, look back my life, met my people I kinda get some ideas how to communicate with others and what is a good conversations. \n \
 Thank you for listening my short story.')
 .format(Name=Name, age=age, gender=gender, food=food, Maxim=Maxim))

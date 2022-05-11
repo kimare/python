@@ -1,0 +1,15 @@
+Name = "Louiz"
+age = 19
+gender = "Male"
+food = "Chicken"
+Maxim = "you only live once and Be brave"
+print (('Hi, It is my pleasure to introduce myself to you guys. My name is {Name}.' +
+        'and My age is {age}.' +
+        'sex is {gender}. ' +
+        'My favolite food is {food}.' +
+        'My Life qoutes is {Maxim}.'
+        'while i studied my major I found it is interesting for me so that makes me to study deeply in this field.' + 
+        'I am people person, look back my life, met my people I kinda get some ideas how to communicate with others and what is a good conversations.' +
+        'Thank you for listening my short story.')
+        .format(Name=Name, age=age, gender=gender, food=food, Maxim=Maxim))
+        
